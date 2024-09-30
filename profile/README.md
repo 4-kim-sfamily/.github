@@ -100,49 +100,24 @@
 
 ## 🔎 화면 구성
 
-- 메인 페이지
+## 🔎 화면 구성
 
-<img src="images/main_page.png" alt="main_page" width="300" />
+| 메인 페이지 | 회원가입 | 동의 |
+| --- | --- | --- |
+| <img src="images/main_page.png" alt="main_page" width="300" /> | <img src="images/login_page.png" alt="login_page" width="300" /> | <img src="images/agreement_page.png" alt="agreement_page" width="300" /> |
 
-- 회원가입 및 동의
+| 마이페이지 | 검색 | 상품조회 및 좋아요 |
+| --- | --- | --- |
+| <img src="images/my_page.png" alt="my_page" width="300" /> | <img src="images/search_page.png" alt="search_page" width="300" /> | <img src="images/favorite_page.png" alt="favorite_page" width="300" /> |
 
-<img src="images/login_page.png" alt="login_page" width="300" /> <img src="images/agreement_page.png" alt="agreement_page" width="300" />
+| 추천 | 장바구니 | 쿠폰 |
+| --- | --- | --- |
+| <img src="images/best_page.png" alt="best_page" width="300" /> | <img src="images/cart_page.png" alt="cart_page" width="300" /> | <img src="images/coupon_page.png" alt="coupon_page" width="300" /> |
 
-- 마이페이지
+| 옵션 | 결제 | 배송 |
+| --- | --- | --- |
+| <img src="images/option_page.png" alt="option_page" width="300" /> | <img src="images/payment_page.png" alt="payment_page" width="300" /> | <img src="images/shipment_page.png" alt="shipment_page" width="300" /> |
 
-<img src="images/my_page.png" alt="my_page" width="300" />
-
-- 검색
-
-<img src="images/search_page.png" alt="search_page" width="300" />
-
-- 상품조회 및 좋아요
-
-<img src="images/favorite_page.png" alt="favorite_page" width="300" />
-
-- 추천
-
-<img src="images/best_page.png" alt="best_page" width="300" />
-
-- 장바구니
-
-<img src="images/cart_page.png" alt="cart_page" width="300" />
-
-- 쿠폰
-
-<img src="images/coupon_page.png" alt="coupon_page" width="300" />
-
-- 옵션
-
-<img src="images/option_page.png" alt="option_page" width="300" />
-
-- 결제
-
-<img src="images/payment_page.png" alt="payment_page" width="300" />
-
-- 배송
-
-<img src="images/shipment_page.png" alt="shipment_page" width="300" />
 
 ---
 
