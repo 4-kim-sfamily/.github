@@ -1,4 +1,5 @@
-# 🌟 Starbucks E-Commerce Experience Revamp 🌟(Team Kim’s Family) 
+# 🌟 Starbucks E-Commerce Experience Revamp 🌟
+**TEAM: Kim's Family**
 
 > **신세계 I&C**와 **부산광역시**에서 주관하는 스파로스 아카데미 5기 소속 학생들이 진행한 **스타벅스 온라인 스토어 MSA 도입 프로젝트**
 
@@ -6,7 +7,7 @@
 
 ## 📚 프로젝트 소개
 
-이 프로젝트는 **스타벅스 앱 아키텍처 재설계**를 목표로 진행된 이커머스 웹 애플리케이션 개발 프로젝트입니다. 본 프로젝트를 통해 **MSA(Microservice Architecture)**를 도입하여 최신 기술 트렌드와 사용자 중심의 웹 서비스를 구현했습니다. 
+이 프로젝트는 **스타벅스 앱 아키텍처 재설계**를 목표로 진행된 이커머스 웹 애플리케이션 개발 프로젝트입니다. **MSA(Microservice Architecture)** 를 도입하기 위해 서비스스 및 DB Relation을 분할하고, 사용자 중심의 웹 서비스를 구현했습니다. 
 
 단순한 기능 복제를 넘어서 실무에서 요구되는 기술 역량을 강화하고, 사용자에게 최적화된 서비스를 제공하는 것을 목적으로 기획되었습니다.
 
@@ -74,6 +75,13 @@
 - **ElasticSearch**를 활용한 고속 검색 기능 구현
 - **Kibana**와 **Spring Batch**를 활용한 추천 로직 구현
 - **실제 서비스와 유사한 사용자 경험 제공**을 위한 UI/UX 최적화
+
+---
+
+## 🌐 아키텍처
+<img src="images/kimganeArchitecture.png" alt="kimgane Architecture" width="600" />
+
+
 
 ---
 
