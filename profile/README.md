@@ -51,6 +51,7 @@
 ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAeRk5mAAAABGdBTUEAALGPC/xhBQAAAAJcEhZcwAADsMAAA7DAcdvqGQAABJ5RVh0U29mdHwgQmF0Y2hWb3JrZXI=)
 ![JPA](https://img.shields.io/badge/JPA-0072B8?style=for-the-badge&color=0072B8)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-3B3B3B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAeRk5mAAAABGdBTUEAALGPC/xhBQAAAAJcEhZcwAADsMAAA7DAcdvqGQAABJ5RVh0U29mdHwgQmF0Y2hWb3JrZXI=)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-23A03A?style=for-the-badge&logo=Gradle&logoColor=white) 
 
 - FE: Next.js(14.2.5), Node.js(20.5.1), TypeScript(5.1.3)
