@@ -1,4 +1,4 @@
-# 🌟 Starbucks E-Commerce Experience Revamp 🌟
+# 🌟 Starbucks App Architecture Rebuilding 🌟
 **TEAM: Kim's Family**
 
 > **신세계 I&C**와 **부산광역시**에서 주관하는 스파로스 아카데미 5기 소속 학생들이 진행한 **스타벅스 온라인 스토어 MSA 도입 프로젝트**
