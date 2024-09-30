@@ -13,6 +13,23 @@
 
 ---
 
+## 🗓️ 프로젝트 기간
+**2024년 8월 6일** ~ **2024년 10월 1일**
+
+---
+
+## 👥 팀 구성
+
+| 이름       | 역할                   | 담당기능               |
+| ---------- | ---------------------- |-------------------------|
+| **김예진** | Team Leader, Front-End  | 메인페이지, 장바구니, 배송지, 리뷰, 쿠폰, 카테고리 |
+| **김범규** | Front-End               | Auth, 소셜 로그인, 로그인, 회원가입, 상품 상세, 구매, 마이페이지 |
+| **김남우** | Back-End, Infra         | 상품, 검색(ElasticSearch), 옵션, 좋아요, 장바구니 |
+| **김성태** | Back-End                | 유저, 카테고리, 리뷰, 공지, 구매, 결제, 추천(Batch) |
+| **박상언** | Back-End                | 시즌, 쿠폰, 스타벅스카드, 모바일상품권 |
+
+---
+
 ## 🚀 주요 기능
 
 - **상품 리스트 조회**: 시즌 별 및 카테고리 별 상품을 쉽게 탐색 가능
@@ -68,23 +85,6 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-
----
-
-## 🗓️ 프로젝트 기간
-**2024년 8월 6일** ~ **2024년 10월 1일**
-
----
-
-## 👥 팀 구성
-
-| 이름       | 역할                   | 담당기능               |
-| ---------- | ---------------------- |-------------------------|
-| **김예진** | Team Leader, Front-End  | 메인페이지, 장바구니, 배송지, 리뷰, 쿠폰, 카테고리 |
-| **김범규** | Front-End               | Auth, 소셜 로그인, 로그인, 회원가입, 상품 상세, 구매, 마이페이지 |
-| **김남우** | Back-End, Infra         | 상품, 검색(ElasticSearch), 옵션, 좋아요, 장바구니 |
-| **김성태** | Back-End                | 유저, 카테고리, 리뷰, 공지, 구매, 결제, 추천(Batch) |
-| **박상언** | Back-End                | 시즌, 쿠폰, 스타벅스카드, 모바일상품권 |
 
 ---
 
