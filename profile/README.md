@@ -98,7 +98,23 @@
 
 ---
 
-## 🔎 화면 구성
+## 🔧 서버 구성 및 데이터베이스
+
+- 아키텍처
+
+<img src="images/architecture.png" alt="architecture" width="700" />
+
+- ERD
+
+| Original ERD |
+| --- |
+| <img src="images/old_erd.png" alt="old_erd" width="700" /> |
+
+| Architecture Rebuilding |
+| --- |
+| <img src="images/new_erd.png" alt="new_erd" width="700" /> |
+
+---
 
 ## 🔎 화면 구성
 
@@ -132,12 +148,6 @@
 - **ElasticSearch**를 활용한 고속 검색 기능 구현
 - **Kibana**와 **Spring Batch**를 활용한 추천 로직 구현
 - **실제 서비스와 유사한 사용자 경험 제공**을 위한 UI/UX 최적화
-
----
-
-## 🌐 아키텍처
-<img src="images/architecture.png" alt="architecture" width="600" />
-
 
 ---
 
