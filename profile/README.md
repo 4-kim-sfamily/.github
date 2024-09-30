@@ -31,7 +31,7 @@
 | **Backend**   | Java, Spring Boot, JPA                             |
 | **Database**  | MySQL, ElasticSearch                               |
 | **Version Control** | Git, GitHub                                 |
-| **Deployment**| AWS (EC2, S3), Vercel                             |
+| **Deployment**| AWS (EC2, S3), Vercel, GitHub-Actions, Jenkins                             |
 
 ---
 
@@ -72,6 +72,7 @@
 
 - **MSA 도입**을 통한 서비스 구조 개선
 - **ElasticSearch**를 활용한 고속 검색 기능 구현
+- **Kibana**와 **Spring Batch**를 활용한 추천 로직 구현
 - **실제 서비스와 유사한 사용자 경험 제공**을 위한 UI/UX 최적화
 
 ---
