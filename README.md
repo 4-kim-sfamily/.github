@@ -145,7 +145,8 @@
 ## 🏆 주요 성과
 
 - **MSA 도입**을 통한 서비스 구조 개선
-- **ElasticSearch**를 활용한 고속 검색 기능 구현
+- **ElasticSearch**를 활용한 고속 검색 기능 구현<br>
+  : 리뷰 데이터 약 50,007개 기준. JPA search 37 ms -> Elasticsearch 7 ms
 - **Kibana**와 **Spring Batch**를 활용한 추천 로직 구현
 - **실제 서비스와 유사한 사용자 경험 제공**을 위한 UI/UX 최적화
 
